@@ -1,0 +1,22 @@
+.img3{
+    opacity: 100%;
+}
+.container{
+    margin-top: 100px;
+}
+hr{
+    margin-top: 100px;
+
+border-style: dotted red;
+width: 25%;
+margin-left: auto;
+margin-right: auto;
+
+}
+.form-group{
+    width: 50%;
+}
+.mx-2{
+    display: flex;
+    
+}
